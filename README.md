@@ -12,13 +12,18 @@ Our system is capable of:
 Key Features
 
 -Open-Source & Cost-Effective: Built using Python and OpenCV, making advanced ALPR capabilities accessible.
+
 -Robust Detection & Recognition: Handles challenging scenarios like low lighting and varying plate designs.
+
 -Scalable Design: Designed for use in diverse environments with potential for broader applications.
 
 Applications
 
 -Parking Management: Automating vehicle entry and exit systems.
+
 -Traffic Regulation: Monitoring and enforcing traffic rules.
+
 -Security Systems: Enhancing surveillance in gated communities and institutions.
+
 
 Feel free to explore the repository, contribute, or provide feedback. Together, let's make advanced ALPR capabilities more accessible and efficient!"# ANPR_MINI_PROJECT" 
