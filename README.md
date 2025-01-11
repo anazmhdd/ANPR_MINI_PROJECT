@@ -26,4 +26,4 @@ Applications
 -Security Systems: Enhancing surveillance in gated communities and institutions.
 
 
-Feel free to explore the repository, contribute, or provide feedback. Together, let's make advanced ALPR capabilities more accessible and efficient!"# ANPR_MINI_PROJECT" 
+Feel free to explore the repository, contribute, or provide feedback. Together, let's make advanced ALPR capabilities more accessible and efficient!
